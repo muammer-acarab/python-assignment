@@ -8,5 +8,5 @@ def sum_double(a, b):
   return sum
 print(sum_double(1, 2))
 3
-print(sum_double(5, 5))
-20
+print(sum_double(6, 6))
+24
